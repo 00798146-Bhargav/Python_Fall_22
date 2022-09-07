@@ -2,7 +2,7 @@
 # Bhargav Reddy Lankireddy
 # Id: 00798146
 # String Methods
-#Version Control :
+#Version Control : https://github.com/00798146-Bhargav/Python_Fall_22/tree/Week2_Program%232
 
 
 stringA = "Hello"
